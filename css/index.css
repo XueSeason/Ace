@@ -28,11 +28,11 @@ body {
 
 .content {
   position: relative;
-  width: 340px;
+  width: 280px;
   margin: 0 auto;
   top: 50%;
   transform: translate(0,-50%);
-  background-color: rgba(240, 240, 240, 0.8);;
+  background-color: rgba(240, 240, 240, 0.8);
   padding: 40px 20px;
   text-align: center;
   border-radius: 6px;
