@@ -28,7 +28,7 @@ body {
 
 .content {
   position: relative;
-  width: 280px;
+  width: 320px;
   margin: 0 auto;
   top: 50%;
   transform: translate(0,-50%);
